@@ -2,6 +2,8 @@
 
 A local Vedic astrology (Jyotish) engine and CLI. It computes the chart on your machine with the Swiss Ephemeris. Birth data never leaves the machine.
 
+**New to Vedic astrology?** This is a free command-line tool that draws your birth chart in Vedic (traditional Indian) astrology, which places the planets against the actual star constellations, about 24° back from the Western zodiac, so your "sun sign" often shifts one sign earlier, and it does all the math on your own computer, so your birth details never go to a website.
+
 It's also packaged as an agent skill (`SKILL.md`) for Claude Code and other agents that read skills.
 
 ## What it computes
