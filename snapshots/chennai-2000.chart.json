@@ -1,0 +1,1048 @@
+{
+ "input": {
+  "date": "2000-01-01",
+  "time": "12:00",
+  "ayanamsha": "chitra-paksha",
+  "rahu": "mean-rahu",
+  "classical": true,
+  "id": null,
+  "city": "",
+  "state": null,
+  "country": null,
+  "lat": 13.08784,
+  "lon": 80.27847,
+  "tz": "Asia/Kolkata",
+  "elevation": 0
+ },
+ "positions": [
+  {
+   "graha": "Lagna",
+   "longitude": 345.826048,
+   "rashi": "meena",
+   "rashi_index": 11,
+   "dms_in_rashi": "15°49′33″",
+   "nakshatra": "U Bhadrapada",
+   "pada": 4,
+   "nakshatra_lord": "Shani",
+   "sub_lord": "Guru",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0,
+   "combust": false
+  },
+  {
+   "graha": "Surya",
+   "longitude": 256.27183,
+   "rashi": "dhanu",
+   "rashi_index": 8,
+   "dms_in_rashi": "16°16′18″",
+   "nakshatra": "P Ashadha",
+   "pada": 1,
+   "nakshatra_lord": "Shukra",
+   "sub_lord": "Chandra",
+   "retro": false,
+   "speed": 1.0194,
+   "latitude": 0.0002,
+   "right_ascension": 281.0253,
+   "declination": -23.0504,
+   "combust": false
+  },
+  {
+   "graha": "Chandra",
+   "longitude": 196.701429,
+   "rashi": "tula",
+   "rashi_index": 6,
+   "dms_in_rashi": "16°42′05″",
+   "nakshatra": "Swati",
+   "pada": 4,
+   "nakshatra_lord": "Rahu",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 12.0567,
+   "latitude": 5.2057,
+   "right_ascension": 219.7982,
+   "declination": -10.0408,
+   "combust": false
+  },
+  {
+   "graha": "Mangal",
+   "longitude": 303.922083,
+   "rashi": "kumbha",
+   "rashi_index": 10,
+   "dms_in_rashi": "03°55′19″",
+   "nakshatra": "Dhanishtha",
+   "pada": 4,
+   "nakshatra_lord": "Mangal",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 0.7757,
+   "latitude": -1.0706,
+   "right_ascension": 330.3466,
+   "declination": -13.2467,
+   "combust": false
+  },
+  {
+   "graha": "Budha",
+   "longitude": 247.669299,
+   "rashi": "dhanu",
+   "rashi_index": 8,
+   "dms_in_rashi": "07°40′09″",
+   "nakshatra": "Mula",
+   "pada": 3,
+   "nakshatra_lord": "Ketu",
+   "sub_lord": "Guru",
+   "retro": false,
+   "speed": 1.555,
+   "latitude": -0.9724,
+   "right_ascension": 271.6829,
+   "declination": -24.4011,
+   "combust": true
+  },
+  {
+   "graha": "Guru",
+   "longitude": 1.380305,
+   "rashi": "mesha",
+   "rashi_index": 0,
+   "dms_in_rashi": "01°22′49″",
+   "nakshatra": "Ashwini",
+   "pada": 1,
+   "nakshatra_lord": "Ketu",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 0.04,
+   "latitude": -1.2634,
+   "right_ascension": 23.8595,
+   "declination": 8.5898,
+   "combust": false
+  },
+  {
+   "graha": "Shukra",
+   "longitude": 217.425284,
+   "rashi": "vrishchika",
+   "rashi_index": 7,
+   "dms_in_rashi": "07°25′31″",
+   "nakshatra": "Anuradha",
+   "pada": 2,
+   "nakshatra_lord": "Shani",
+   "sub_lord": "Ketu",
+   "retro": false,
+   "speed": 1.2088,
+   "latitude": 2.0727,
+   "right_ascension": 239.6082,
+   "declination": -18.3871,
+   "combust": false
+  },
+  {
+   "graha": "Shani",
+   "longitude": 16.536785,
+   "rashi": "mesha",
+   "rashi_index": 0,
+   "dms_in_rashi": "16°32′12″",
+   "nakshatra": "Bharani",
+   "pada": 1,
+   "nakshatra_lord": "Shukra",
+   "sub_lord": "Chandra",
+   "retro": true,
+   "speed": -0.0204,
+   "latitude": -2.4459,
+   "right_ascension": 38.7702,
+   "declination": 12.6152,
+   "combust": false
+  },
+  {
+   "graha": "Arun",
+   "longitude": 290.934225,
+   "rashi": "makara",
+   "rashi_index": 9,
+   "dms_in_rashi": "20°56′03″",
+   "nakshatra": "Shravana",
+   "pada": 4,
+   "nakshatra_lord": "Chandra",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 0.0502,
+   "latitude": -0.6584,
+   "right_ascension": 317.4634,
+   "declination": -17.0237,
+   "combust": false
+  },
+  {
+   "graha": "Varun",
+   "longitude": 279.321363,
+   "rashi": "makara",
+   "rashi_index": 9,
+   "dms_in_rashi": "09°19′16″",
+   "nakshatra": "U Ashadha",
+   "pada": 4,
+   "nakshatra_lord": "Surya",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 0.0355,
+   "latitude": 0.235,
+   "right_ascension": 305.4244,
+   "declination": -19.2151,
+   "combust": false
+  },
+  {
+   "graha": "Yam",
+   "longitude": 227.583174,
+   "rashi": "vrishchika",
+   "rashi_index": 7,
+   "dms_in_rashi": "17°34′59″",
+   "nakshatra": "Jyeshtha",
+   "pada": 1,
+   "nakshatra_lord": "Budha",
+   "sub_lord": "Budha",
+   "retro": false,
+   "speed": 0.0352,
+   "latitude": 10.8549,
+   "right_ascension": 251.4111,
+   "declination": -11.3936,
+   "combust": false
+  },
+  {
+   "graha": "Rahu",
+   "longitude": 101.189309,
+   "rashi": "karka",
+   "rashi_index": 3,
+   "dms_in_rashi": "11°11′21″",
+   "nakshatra": "Pushya",
+   "pada": 3,
+   "nakshatra_lord": "Shani",
+   "sub_lord": "Chandra",
+   "retro": true,
+   "speed": -0.053,
+   "latitude": 0.0,
+   "right_ascension": 127.4041,
+   "declination": 19.0024,
+   "combust": false
+  },
+  {
+   "graha": "Ketu",
+   "longitude": 281.189309,
+   "rashi": "makara",
+   "rashi_index": 9,
+   "dms_in_rashi": "11°11′21″",
+   "nakshatra": "Shravana",
+   "pada": 1,
+   "nakshatra_lord": "Chandra",
+   "sub_lord": "Mangal",
+   "retro": true,
+   "speed": -0.053,
+   "latitude": -0.0,
+   "right_ascension": 307.4041,
+   "declination": -19.0024,
+   "combust": false
+  }
+ ],
+ "d1": {
+  "title": "Rashi Chart - D1",
+  "houses": [
+   {
+    "bhava": 1,
+    "rashi": "meena",
+    "residents": []
+   },
+   {
+    "bhava": 2,
+    "rashi": "mesha",
+    "residents": [
+     "Guru",
+     "Shani"
+    ]
+   },
+   {
+    "bhava": 3,
+    "rashi": "vrishabha",
+    "residents": []
+   },
+   {
+    "bhava": 4,
+    "rashi": "mithuna",
+    "residents": []
+   },
+   {
+    "bhava": 5,
+    "rashi": "karka",
+    "residents": [
+     "Rahu"
+    ]
+   },
+   {
+    "bhava": 6,
+    "rashi": "simha",
+    "residents": []
+   },
+   {
+    "bhava": 7,
+    "rashi": "kanya",
+    "residents": []
+   },
+   {
+    "bhava": 8,
+    "rashi": "tula",
+    "residents": [
+     "Chandra"
+    ]
+   },
+   {
+    "bhava": 9,
+    "rashi": "vrishchika",
+    "residents": [
+     "Shukra"
+    ]
+   },
+   {
+    "bhava": 10,
+    "rashi": "dhanu",
+    "residents": [
+     "Surya",
+     "Budha"
+    ]
+   },
+   {
+    "bhava": 11,
+    "rashi": "makara",
+    "residents": [
+     "Ketu"
+    ]
+   },
+   {
+    "bhava": 12,
+    "rashi": "kumbha",
+    "residents": [
+     "Mangal"
+    ]
+   }
+  ],
+  "planet_table": [
+   {
+    "graha": "Lagna",
+    "marker": "(Q)",
+    "icons": [],
+    "is_in": "1 Bhava",
+    "b_owner": "Guru",
+    "ruler_of": "",
+    "relationship": "",
+    "dignity": "-"
+   },
+   {
+    "graha": "Surya",
+    "marker": "(Q)",
+    "icons": [],
+    "is_in": "10 Bhava",
+    "b_owner": "Guru",
+    "ruler_of": "6 Bhava",
+    "relationship": "Friend's House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Chandra",
+    "marker": "",
+    "icons": [
+     "Chandra Pushkaramsha"
+    ],
+    "is_in": "8 Bhava",
+    "b_owner": "Shukra",
+    "ruler_of": "5 Bhava",
+    "relationship": "Neutral",
+    "dignity": "-"
+   },
+   {
+    "graha": "Mangal",
+    "marker": "",
+    "icons": [
+     "Dhanesha Mangal and Vyayesha Shani Sthana Parivartana"
+    ],
+    "is_in": "12 Bhava",
+    "b_owner": "Shani",
+    "ruler_of": "2, 9 Bhava",
+    "relationship": "Neutral",
+    "dignity": "-"
+   },
+   {
+    "graha": "Budha",
+    "marker": "(Q)",
+    "icons": [],
+    "is_in": "10 Bhava",
+    "b_owner": "Guru",
+    "ruler_of": "4, 7 Bhava",
+    "relationship": "Neutral",
+    "dignity": "-"
+   },
+   {
+    "graha": "Guru",
+    "marker": "",
+    "icons": [],
+    "is_in": "2 Bhava",
+    "b_owner": "Mangal",
+    "ruler_of": "10, 1 Bhava",
+    "relationship": "Friend's House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Shukra",
+    "marker": "(T)",
+    "icons": [
+     "Shukra Pushkaramsha"
+    ],
+    "is_in": "9 Bhava",
+    "b_owner": "Mangal",
+    "ruler_of": "3, 8 Bhava",
+    "relationship": "Neutral",
+    "dignity": "-"
+   },
+   {
+    "graha": "Shani",
+    "marker": "",
+    "icons": [
+     "Vyayesha Shani and Dhanesha Mangal Sthana Parivartana"
+    ],
+    "is_in": "2 Bhava",
+    "b_owner": "Mangal",
+    "ruler_of": "11, 12 Bhava",
+    "relationship": "Enemy's House",
+    "dignity": "Debilitated"
+   },
+   {
+    "graha": "Rahu",
+    "marker": "(T)",
+    "icons": [],
+    "is_in": "5 Bhava",
+    "b_owner": "Chandra",
+    "ruler_of": "12 Bhava",
+    "relationship": "Enemy's House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Ketu",
+    "marker": "",
+    "icons": [
+     "Ketu Mrityuamsha"
+    ],
+    "is_in": "11 Bhava",
+    "b_owner": "Shani",
+    "ruler_of": "9 Bhava",
+    "relationship": "Friend's House",
+    "dignity": "-"
+   }
+  ],
+  "house_table": [
+   {
+    "bhava": 1,
+    "marker": "(Q)",
+    "residents": "",
+    "owner": "Guru",
+    "rashi": "Meena",
+    "icons": [
+     "Dagdha Meena Rashi"
+    ],
+    "qualities": "Fem, Common",
+    "aspected_by": ""
+   },
+   {
+    "bhava": 2,
+    "marker": "",
+    "residents": "Guru, Shani",
+    "owner": "Mangal",
+    "rashi": "Mesha",
+    "icons": [],
+    "qualities": "Mas, Movable",
+    "aspected_by": "Chandra"
+   },
+   {
+    "bhava": 3,
+    "marker": "",
+    "residents": "",
+    "owner": "Shukra",
+    "rashi": "Vrishabha",
+    "icons": [],
+    "qualities": "Fem, Fixed",
+    "aspected_by": "Mangal, Shukra"
+   },
+   {
+    "bhava": 4,
+    "marker": "(Q)",
+    "residents": "",
+    "owner": "Budha",
+    "rashi": "Mithuna",
+    "icons": [],
+    "qualities": "Mas, Common",
+    "aspected_by": "Surya, Budha, Shani"
+   },
+   {
+    "bhava": 5,
+    "marker": "(T)",
+    "residents": "Rahu",
+    "owner": "Chandra",
+    "rashi": "Karka",
+    "icons": [],
+    "qualities": "Fem, Movable",
+    "aspected_by": ""
+   },
+   {
+    "bhava": 6,
+    "marker": "",
+    "residents": "",
+    "owner": "Surya",
+    "rashi": "Simha",
+    "icons": [],
+    "qualities": "Mas, Fixed",
+    "aspected_by": "Mangal, Guru"
+   },
+   {
+    "bhava": 7,
+    "marker": "(Q)",
+    "residents": "",
+    "owner": "Budha",
+    "rashi": "Kanya",
+    "icons": [],
+    "qualities": "Fem, Common",
+    "aspected_by": "Mangal"
+   },
+   {
+    "bhava": 8,
+    "marker": "",
+    "residents": "Chandra",
+    "owner": "Shukra",
+    "rashi": "Tula",
+    "icons": [],
+    "qualities": "Mas, Movable",
+    "aspected_by": "Guru, Shani"
+   },
+   {
+    "bhava": 9,
+    "marker": "(T)",
+    "residents": "Shukra",
+    "owner": "Mangal",
+    "rashi": "Vrishchika",
+    "icons": [],
+    "qualities": "Fem, Fixed",
+    "aspected_by": ""
+   },
+   {
+    "bhava": 10,
+    "marker": "(Q)",
+    "residents": "Surya, Budha",
+    "owner": "Guru",
+    "rashi": "Dhanu",
+    "icons": [
+     "Dagdha Dhanu Rashi"
+    ],
+    "qualities": "Mas, Common",
+    "aspected_by": "Guru"
+   },
+   {
+    "bhava": 11,
+    "marker": "",
+    "residents": "Ketu",
+    "owner": "Shani",
+    "rashi": "Makara",
+    "icons": [],
+    "qualities": "Fem, Movable",
+    "aspected_by": "Shani"
+   },
+   {
+    "bhava": 12,
+    "marker": "",
+    "residents": "Mangal",
+    "owner": "Shani",
+    "rashi": "Kumbha",
+    "icons": [],
+    "qualities": "Mas, Fixed",
+    "aspected_by": ""
+   }
+  ]
+ },
+ "d9": {
+  "title": "Navamsha Chart - D9",
+  "houses": [
+   {
+    "bhava": 1,
+    "rashi": "vrishchika",
+    "residents": [
+     "Mangal"
+    ]
+   },
+   {
+    "bhava": 2,
+    "rashi": "dhanu",
+    "residents": []
+   },
+   {
+    "bhava": 3,
+    "rashi": "makara",
+    "residents": []
+   },
+   {
+    "bhava": 4,
+    "rashi": "kumbha",
+    "residents": []
+   },
+   {
+    "bhava": 5,
+    "rashi": "meena",
+    "residents": [
+     "Chandra"
+    ]
+   },
+   {
+    "bhava": 6,
+    "rashi": "mesha",
+    "residents": [
+     "Guru",
+     "Ketu"
+    ]
+   },
+   {
+    "bhava": 7,
+    "rashi": "vrishabha",
+    "residents": []
+   },
+   {
+    "bhava": 8,
+    "rashi": "mithuna",
+    "residents": [
+     "Budha"
+    ]
+   },
+   {
+    "bhava": 9,
+    "rashi": "karka",
+    "residents": []
+   },
+   {
+    "bhava": 10,
+    "rashi": "simha",
+    "residents": [
+     "Surya",
+     "Shani"
+    ]
+   },
+   {
+    "bhava": 11,
+    "rashi": "kanya",
+    "residents": [
+     "Shukra"
+    ]
+   },
+   {
+    "bhava": 12,
+    "rashi": "tula",
+    "residents": [
+     "Rahu"
+    ]
+   }
+  ],
+  "planet_table": [
+   {
+    "graha": "Lagna",
+    "marker": "(Q)",
+    "icons": [
+     "Lagna Mrityuamsha"
+    ],
+    "is_in": "1 Bhava",
+    "b_owner": "Mangal",
+    "ruler_of": "",
+    "relationship": "",
+    "dignity": "-"
+   },
+   {
+    "graha": "Surya",
+    "marker": "(Q)",
+    "icons": [],
+    "is_in": "10 Bhava",
+    "b_owner": "Surya",
+    "ruler_of": "10 Bhava",
+    "relationship": "Own House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Chandra",
+    "marker": "(T)",
+    "icons": [],
+    "is_in": "5 Bhava",
+    "b_owner": "Guru",
+    "ruler_of": "9 Bhava",
+    "relationship": "Neutral",
+    "dignity": "-"
+   },
+   {
+    "graha": "Mangal",
+    "marker": "(Q)",
+    "icons": [],
+    "is_in": "1 Bhava",
+    "b_owner": "Mangal",
+    "ruler_of": "6, 1 Bhava",
+    "relationship": "Own House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Budha",
+    "marker": "",
+    "icons": [],
+    "is_in": "8 Bhava",
+    "b_owner": "Budha",
+    "ruler_of": "8, 11 Bhava",
+    "relationship": "Own House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Guru",
+    "marker": "",
+    "icons": [],
+    "is_in": "6 Bhava",
+    "b_owner": "Mangal",
+    "ruler_of": "2, 5 Bhava",
+    "relationship": "Friend's House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Shukra",
+    "marker": "",
+    "icons": [],
+    "is_in": "11 Bhava",
+    "b_owner": "Budha",
+    "ruler_of": "7, 12 Bhava",
+    "relationship": "Friend's House",
+    "dignity": "Debilitated"
+   },
+   {
+    "graha": "Shani",
+    "marker": "(Q)",
+    "icons": [],
+    "is_in": "10 Bhava",
+    "b_owner": "Surya",
+    "ruler_of": "3, 4 Bhava",
+    "relationship": "Enemy's House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Rahu",
+    "marker": "",
+    "icons": [],
+    "is_in": "12 Bhava",
+    "b_owner": "Shukra",
+    "ruler_of": "4 Bhava",
+    "relationship": "Friend's House",
+    "dignity": "-"
+   },
+   {
+    "graha": "Ketu",
+    "marker": "",
+    "icons": [],
+    "is_in": "6 Bhava",
+    "b_owner": "Mangal",
+    "ruler_of": "1 Bhava",
+    "relationship": "Friend's House",
+    "dignity": "-"
+   }
+  ],
+  "house_table": [
+   {
+    "bhava": 1,
+    "marker": "(Q)",
+    "residents": "Mangal",
+    "owner": "Mangal",
+    "rashi": "Vrishchika",
+    "icons": [],
+    "qualities": "Fem, Fixed",
+    "aspected_by": ""
+   },
+   {
+    "bhava": 2,
+    "marker": "",
+    "residents": "",
+    "owner": "Guru",
+    "rashi": "Dhanu",
+    "icons": [
+     "Dagdha Dhanu Rashi"
+    ],
+    "qualities": "Mas, Common",
+    "aspected_by": "Budha, Guru"
+   },
+   {
+    "bhava": 3,
+    "marker": "",
+    "residents": "",
+    "owner": "Shani",
+    "rashi": "Makara",
+    "icons": [],
+    "qualities": "Fem, Movable",
+    "aspected_by": ""
+   },
+   {
+    "bhava": 4,
+    "marker": "(Q)",
+    "residents": "",
+    "owner": "Shani",
+    "rashi": "Kumbha",
+    "icons": [],
+    "qualities": "Mas, Fixed",
+    "aspected_by": "Surya, Mangal, Shani"
+   },
+   {
+    "bhava": 5,
+    "marker": "(T)",
+    "residents": "Chandra",
+    "owner": "Guru",
+    "rashi": "Meena",
+    "icons": [
+     "Dagdha Meena Rashi"
+    ],
+    "qualities": "Fem, Common",
+    "aspected_by": "Shukra"
+   },
+   {
+    "bhava": 6,
+    "marker": "",
+    "residents": "Guru, Ketu",
+    "owner": "Mangal",
+    "rashi": "Mesha",
+    "icons": [],
+    "qualities": "Mas, Movable",
+    "aspected_by": ""
+   },
+   {
+    "bhava": 7,
+    "marker": "(Q)",
+    "residents": "",
+    "owner": "Shukra",
+    "rashi": "Vrishabha",
+    "icons": [],
+    "qualities": "Fem, Fixed",
+    "aspected_by": "Mangal, Shani"
+   },
+   {
+    "bhava": 8,
+    "marker": "",
+    "residents": "Budha",
+    "owner": "Budha",
+    "rashi": "Mithuna",
+    "icons": [],
+    "qualities": "Mas, Common",
+    "aspected_by": "Mangal"
+   },
+   {
+    "bhava": 9,
+    "marker": "(T)",
+    "residents": "",
+    "owner": "Chandra",
+    "rashi": "Karka",
+    "icons": [],
+    "qualities": "Fem, Movable",
+    "aspected_by": ""
+   },
+   {
+    "bhava": 10,
+    "marker": "(Q)",
+    "residents": "Surya, Shani",
+    "owner": "Surya",
+    "rashi": "Simha",
+    "icons": [],
+    "qualities": "Mas, Fixed",
+    "aspected_by": "Guru"
+   },
+   {
+    "bhava": 11,
+    "marker": "",
+    "residents": "Shukra",
+    "owner": "Budha",
+    "rashi": "Kanya",
+    "icons": [],
+    "qualities": "Fem, Common",
+    "aspected_by": "Chandra"
+   },
+   {
+    "bhava": 12,
+    "marker": "",
+    "residents": "Rahu",
+    "owner": "Shukra",
+    "rashi": "Tula",
+    "icons": [],
+    "qualities": "Mas, Movable",
+    "aspected_by": "Guru, Shani"
+   }
+  ]
+ },
+ "upagrahas": {
+  "Kala": {
+   "graha": "Kala",
+   "longitude": 298.748853,
+   "rashi": "makara",
+   "rashi_index": 9,
+   "dms_in_rashi": "28°44′55″",
+   "nakshatra": "Dhanishtha",
+   "pada": 2,
+   "nakshatra_lord": "Mangal",
+   "sub_lord": "Shani",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Mrityu": {
+   "graha": "Mrityu",
+   "longitude": 349.468153,
+   "rashi": "meena",
+   "rashi_index": 11,
+   "dms_in_rashi": "19°28′05″",
+   "nakshatra": "Revati",
+   "pada": 1,
+   "nakshatra_lord": "Budha",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Ardha Prahara": {
+   "graha": "Ardha Prahara",
+   "longitude": 14.305439,
+   "rashi": "mesha",
+   "rashi_index": 0,
+   "dms_in_rashi": "14°18′19″",
+   "nakshatra": "Bharani",
+   "pada": 1,
+   "nakshatra_lord": "Shukra",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Yama Ghantaka": {
+   "graha": "Yama Ghantaka",
+   "longitude": 37.021107,
+   "rashi": "vrishabha",
+   "rashi_index": 1,
+   "dms_in_rashi": "07°01′15″",
+   "nakshatra": "Krittika",
+   "pada": 4,
+   "nakshatra_lord": "Surya",
+   "sub_lord": "Ketu",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Gulika": {
+   "graha": "Gulika",
+   "longitude": 255.161906,
+   "rashi": "dhanu",
+   "rashi_index": 8,
+   "dms_in_rashi": "15°09′42″",
+   "nakshatra": "P Ashadha",
+   "pada": 1,
+   "nakshatra_lord": "Shukra",
+   "sub_lord": "Shukra",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Mandi": {
+   "graha": "Mandi",
+   "longitude": 245.916037,
+   "rashi": "dhanu",
+   "rashi_index": 8,
+   "dms_in_rashi": "05°54′57″",
+   "nakshatra": "Mula",
+   "pada": 2,
+   "nakshatra_lord": "Ketu",
+   "sub_lord": "Rahu",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Dhuma": {
+   "graha": "Dhuma",
+   "longitude": 29.60183,
+   "rashi": "mesha",
+   "rashi_index": 0,
+   "dms_in_rashi": "29°36′06″",
+   "nakshatra": "Krittika",
+   "pada": 1,
+   "nakshatra_lord": "Surya",
+   "sub_lord": "Rahu",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Vyatipata": {
+   "graha": "Vyatipata",
+   "longitude": 330.39817,
+   "rashi": "meena",
+   "rashi_index": 11,
+   "dms_in_rashi": "00°23′53″",
+   "nakshatra": "P Bhadrapada",
+   "pada": 4,
+   "nakshatra_lord": "Guru",
+   "sub_lord": "Chandra",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Parivesha": {
+   "graha": "Parivesha",
+   "longitude": 150.39817,
+   "rashi": "kanya",
+   "rashi_index": 5,
+   "dms_in_rashi": "00°23′53″",
+   "nakshatra": "U Phalguni",
+   "pada": 2,
+   "nakshatra_lord": "Surya",
+   "sub_lord": "Rahu",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Indra Chapa": {
+   "graha": "Indra Chapa",
+   "longitude": 209.60183,
+   "rashi": "tula",
+   "rashi_index": 6,
+   "dms_in_rashi": "29°36′06″",
+   "nakshatra": "Vishakha",
+   "pada": 3,
+   "nakshatra_lord": "Guru",
+   "sub_lord": "Chandra",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  },
+  "Upaketu": {
+   "graha": "Upaketu",
+   "longitude": 226.27183,
+   "rashi": "vrishchika",
+   "rashi_index": 7,
+   "dms_in_rashi": "16°16′18″",
+   "nakshatra": "Anuradha",
+   "pada": 4,
+   "nakshatra_lord": "Shani",
+   "sub_lord": "Guru",
+   "retro": false,
+   "speed": 0.0,
+   "latitude": 0.0,
+   "right_ascension": 0.0,
+   "declination": 0.0
+  }
+ }
+}

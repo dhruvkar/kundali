@@ -1,0 +1,99 @@
+{
+ "scheme": "7 karakas",
+ "karakas": [
+  {
+   "karaka": "Atmakaraka",
+   "graha": "Mangal",
+   "degree": "29°16′39″"
+  },
+  {
+   "karaka": "Amatyakaraka",
+   "graha": "Guru",
+   "degree": "26°40′45″"
+  },
+  {
+   "karaka": "Bhratrikaraka",
+   "graha": "Shani",
+   "degree": "25°50′54″"
+  },
+  {
+   "karaka": "Matrikaraka",
+   "graha": "Budha",
+   "degree": "21°34′37″"
+  },
+  {
+   "karaka": "Putrakaraka",
+   "graha": "Shukra",
+   "degree": "20°59′40″"
+  },
+  {
+   "karaka": "Gnatikaraka",
+   "graha": "Surya",
+   "degree": "05°38′48″"
+  },
+  {
+   "karaka": "Darakaraka",
+   "graha": "Chandra",
+   "degree": "04°11′15″"
+  }
+ ],
+ "karakamsha": "meena",
+ "devatas": [
+  {
+   "indication": "Ishta devata (moksha)",
+   "method": "12th from Karakamsha in D9 (Jaimini/BPHS)",
+   "d9_sign": "kumbha",
+   "occupants": [
+    "Ketu"
+   ],
+   "used": "occupants",
+   "deities": {
+    "Ketu": "Ganesha and Skanda"
+   }
+  },
+  {
+   "indication": "Dharma devata",
+   "method": "9th from Atmakaraka in D9 (Sanjay Rath school)",
+   "d9_sign": "vrishchika",
+   "occupants": [
+    "Surya"
+   ],
+   "used": "occupants",
+   "deities": {
+    "Surya": "Shiva"
+   }
+  },
+  {
+   "indication": "Palana devata (sustenance)",
+   "method": "6th from Amatyakaraka in D9 (Sanjay Rath school)",
+   "d9_sign": "simha",
+   "occupants": [
+    "Chandra",
+    "Rahu"
+   ],
+   "used": "occupants",
+   "deities": {
+    "Chandra": "Gauri (Parvati)",
+    "Rahu": "Durga (tamasic form)"
+   }
+  }
+ ],
+ "janma_nakshatra": {
+  "nakshatra": "Anuradha",
+  "deity": "Mitra"
+ },
+ "d1_5th_9th": [
+  {
+   "house": 5,
+   "rashi": "tula",
+   "lord": "Shukra",
+   "occupants": []
+  },
+  {
+   "house": 9,
+   "rashi": "kumbha",
+   "lord": "Shani",
+   "occupants": []
+  }
+ ]
+}

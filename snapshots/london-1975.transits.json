@@ -1,0 +1,238 @@
+{
+ "rows": [
+  {
+   "graha": "Surya",
+   "rashi": "dhanu",
+   "dms_in_rashi": "16°20′30″",
+   "nakshatra": "P Ashadha 1",
+   "retro": false,
+   "house_from_lagna": 7,
+   "house_from_moon": 2,
+   "favourable_from_moon": false,
+   "bindus": 4,
+   "sav": 27
+  },
+  {
+   "graha": "Chandra",
+   "rashi": "vrishabha",
+   "dms_in_rashi": "12°29′20″",
+   "nakshatra": "Rohini 1",
+   "retro": false,
+   "house_from_lagna": 12,
+   "house_from_moon": 7,
+   "favourable_from_moon": true,
+   "bindus": 4,
+   "sav": 19
+  },
+  {
+   "graha": "Mangal",
+   "rashi": "dhanu",
+   "dms_in_rashi": "18°27′41″",
+   "nakshatra": "P Ashadha 2",
+   "retro": false,
+   "house_from_lagna": 7,
+   "house_from_moon": 2,
+   "favourable_from_moon": false,
+   "bindus": 4,
+   "sav": 27
+  },
+  {
+   "graha": "Budha",
+   "rashi": "dhanu",
+   "dms_in_rashi": "04°25′29″",
+   "nakshatra": "Mula 2",
+   "retro": false,
+   "house_from_lagna": 7,
+   "house_from_moon": 2,
+   "favourable_from_moon": true,
+   "bindus": 3,
+   "sav": 27
+  },
+  {
+   "graha": "Guru",
+   "rashi": "mithuna",
+   "dms_in_rashi": "27°07′51″",
+   "nakshatra": "Punarvasu 3",
+   "retro": true,
+   "house_from_lagna": 1,
+   "house_from_moon": 8,
+   "favourable_from_moon": false,
+   "bindus": 5,
+   "sav": 23
+  },
+  {
+   "graha": "Shukra",
+   "rashi": "dhanu",
+   "dms_in_rashi": "14°58′47″",
+   "nakshatra": "P Ashadha 1",
+   "retro": false,
+   "house_from_lagna": 7,
+   "house_from_moon": 2,
+   "favourable_from_moon": true,
+   "bindus": 2,
+   "sav": 27
+  },
+  {
+   "graha": "Shani",
+   "rashi": "meena",
+   "dms_in_rashi": "01°56′26″",
+   "nakshatra": "P Bhadrapada 4",
+   "retro": false,
+   "house_from_lagna": 10,
+   "house_from_moon": 5,
+   "favourable_from_moon": false,
+   "bindus": 3,
+   "sav": 34
+  },
+  {
+   "graha": "Rahu",
+   "rashi": "kumbha",
+   "dms_in_rashi": "17°56′38″",
+   "nakshatra": "Shatabhisha 4",
+   "retro": true,
+   "house_from_lagna": 9,
+   "house_from_moon": 4,
+   "favourable_from_moon": false,
+   "bindus": null,
+   "sav": 25
+  },
+  {
+   "graha": "Ketu",
+   "rashi": "simha",
+   "dms_in_rashi": "17°56′38″",
+   "nakshatra": "P Phalguni 2",
+   "retro": true,
+   "house_from_lagna": 3,
+   "house_from_moon": 10,
+   "favourable_from_moon": false,
+   "bindus": null,
+   "sav": 27
+  }
+ ],
+ "sade_sati_now": null,
+ "at": "2026-01-01 00:00 UTC",
+ "events": [
+  {
+   "jd": 2461053.4398880005,
+   "graha": "Shukra",
+   "event": "enters",
+   "rashi": "makara",
+   "when": "2026-01-12 22:33 UTC",
+   "house_from_moon": 3
+  },
+  {
+   "jd": 2461054.9055023193,
+   "graha": "Surya",
+   "event": "enters",
+   "rashi": "makara",
+   "when": "2026-01-14 09:43 UTC",
+   "house_from_moon": 3
+  },
+  {
+   "jd": 2461056.4632873535,
+   "graha": "Mangal",
+   "event": "enters",
+   "rashi": "makara",
+   "when": "2026-01-15 23:07 UTC",
+   "house_from_moon": 3
+  },
+  {
+   "jd": 2461057.707015991,
+   "graha": "Budha",
+   "event": "enters",
+   "rashi": "makara",
+   "when": "2026-01-17 04:58 UTC",
+   "house_from_moon": 3
+  },
+  {
+   "jd": 2461075.1844329834,
+   "graha": "Budha",
+   "event": "enters",
+   "rashi": "kumbha",
+   "when": "2026-02-03 16:25 UTC",
+   "house_from_moon": 4
+  },
+  {
+   "jd": 2461077.324104309,
+   "graha": "Shukra",
+   "event": "enters",
+   "rashi": "kumbha",
+   "when": "2026-02-05 19:46 UTC",
+   "house_from_moon": 4
+  },
+  {
+   "jd": 2461084.4480895996,
+   "graha": "Surya",
+   "event": "enters",
+   "rashi": "kumbha",
+   "when": "2026-02-12 22:45 UTC",
+   "house_from_moon": 4
+  },
+  {
+   "jd": 2461094.769882202,
+   "graha": "Mangal",
+   "event": "enters",
+   "rashi": "kumbha",
+   "when": "2026-02-23 06:28 UTC",
+   "house_from_moon": 4
+  },
+  {
+   "jd": 2461097.783493042,
+   "graha": "Budha",
+   "event": "turns retrograde",
+   "rashi": "kumbha",
+   "when": "2026-02-26 06:48 UTC",
+   "house_from_moon": 4
+  },
+  {
+   "jd": 2461101.313972473,
+   "graha": "Shukra",
+   "event": "enters",
+   "rashi": "meena",
+   "when": "2026-03-01 19:32 UTC",
+   "house_from_moon": 5
+  },
+  {
+   "jd": 2461110.6459350586,
+   "graha": "Guru",
+   "event": "turns direct",
+   "rashi": "mithuna",
+   "when": "2026-03-11 03:30 UTC",
+   "house_from_moon": 8
+  },
+  {
+   "jd": 2461114.3191452026,
+   "graha": "Surya",
+   "event": "enters",
+   "rashi": "meena",
+   "when": "2026-03-14 19:39 UTC",
+   "house_from_moon": 5
+  },
+  {
+   "jd": 2461120.3145217896,
+   "graha": "Budha",
+   "event": "turns direct",
+   "rashi": "kumbha",
+   "when": "2026-03-20 19:32 UTC",
+   "house_from_moon": 4
+  },
+  {
+   "jd": 2461125.489364624,
+   "graha": "Shukra",
+   "event": "enters",
+   "rashi": "mesha",
+   "when": "2026-03-25 23:44 UTC",
+   "house_from_moon": 6
+  }
+ ],
+ "sade_sati_periods": [
+  {
+   "from": "2011-11-15 05:09 UTC",
+   "to": "2020-01-24 06:38 UTC"
+  },
+  {
+   "from": "2041-01-29 05:30 UTC",
+   "to": "2049-12-04 02:53 UTC"
+  }
+ ]
+}

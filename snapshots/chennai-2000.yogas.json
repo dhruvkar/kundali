@@ -1,0 +1,335 @@
+[
+ {
+  "yoga": "Mangala Dosha",
+  "present": true,
+  "reason": "Mangal in house 12 from Lagna",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "When malefic planets specially Mangala Graha, are placed into or aspect the Bhava of marriage, wealth and comfort, Mangala Dosha is formed. [implemented as: Kuja dosha: Mangal in house 1, 2, 4, 7, 8 or 12 from Lagna (the text's 'aspect' clause would flag Mangal in 9 of 12 houses; Drik, like the classical Kuja dosha, does not)]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Kala Sarpa",
+  "present": false,
+  "reason": "Rahu->Ketu side: Surya, Chandra, Budha, Shukra; Ketu->Rahu side: Mangal, Guru, Shani",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "When all planets are situated at one side of the axis joining Rahu and Ketu, Kala Sarpa Yoga is formed. [implemented as: by longitude, Surya..Shani]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Lagna Mallika",
+  "present": false,
+  "reason": "houses of the 7 grahas from Lagna: [2, 2, 8, 9, 10, 10, 12]",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If all the seven planets occupy the seven houses contiguously, reckoned from Lagna, the Lagna Malika Yoga is formed. [implemented as: houses 1-7 each hold one of the 7 grahas]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Gajakesari",
+  "present": true,
+  "reason": "Guru in house 7 from Chandra",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If Jupiter is in a Kendra from the Chandra the combination goes under the name Gajakesari. [implemented as: Guru in house 1/4/7/10 from Chandra]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Sunapha",
+  "present": true,
+  "reason": "house 2 from Chandra: Shukra",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If there are planets (excepting the Surya) in the second house from the Chandra, Sunapha is caused. [implemented as: Mangal..Shani in 2nd from Chandra (nodes never count in these lunar yogas)]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Anapha",
+  "present": false,
+  "reason": "house 12 from Chandra: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If there are planets in the 12th from the Chandra, Anapha Yoga is formed. [implemented as: as Sunapha, 12th from Chandra, Surya excepted]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Durdhara",
+  "present": false,
+  "reason": "house 2 from Chandra: Shukra; house 12 from Chandra: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If there are planets on either side of the Chandra, the combination goes under the name of Dhurdhura. [implemented as: grahas other than Surya in both 2nd and 12th from Chandra]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Kemadruma",
+  "present": false,
+  "reason": "house 2 from Chandra: Shukra; house 12 from Chandra: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "When there are no planets on both sides of the Chandra, Kemadruma Yoga is formed. [implemented as: no graha other than Surya in 2nd or 12th from Chandra; cancelled by any graha (not Surya/nodes) in a kendra from Lagna or from Chandra]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang); bhanga: Mantreswara, Phaladeepika ch.6"
+ },
+ {
+  "yoga": "Chandra Mangala",
+  "present": false,
+  "reason": "Mangal in kumbha, Chandra in tula",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If Mangala conjoins the Chandra this yoga is formed. [implemented as: same sign]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Adhi",
+  "present": false,
+  "reason": "from Chandra: Budha 3, Guru 7, Shukra 2",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If benefic(s) are situated in the 6th, 7th and 8th from the Chandra, the combination goes under the name of Adhi Yoga. [implemented as: all benefics (Budha, Guru, Shukra) within houses 6-8 from Chandra (jointly or severally)]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Chatussagara",
+  "present": false,
+  "reason": "house 1: none; house 4: none; house 7: none; house 10: Surya, Budha",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Chatussagara Yoga is caused when all the Kendra(s) are occupied by planets. [implemented as: each of houses 1/4/7/10 from Lagna holds one of the 7 grahas]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Vasumati",
+  "present": false,
+  "reason": "from Lagna: Budha 10, Guru 2, Shukra 9; from Chandra: Budha 3, Guru 7, Shukra 2",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If benefic(s) occupy the Upachaya(s) (3, 6, 10 and 11) either from the ascendant or from the Chandra, the combination goes under the name of Vasumathi Yoga. [implemented as: all benefics (Budha, Guru, Shukra, waxing Chandra) in upachayas, all counted from Lagna or all from Chandra (Phaladeepika 6.19: 'all the benefics')]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Rajalakshana",
+  "present": false,
+  "reason": "from Lagna: Guru 2, Shukra 9, Budha 10, Chandra 8",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Brihaspati, Shukra, Budha and the Chandra should be in Lagna or they should be placed in Kendra. [implemented as: all four in houses 1/4/7/10 from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Vanchana Chora Bheeti",
+  "present": true,
+  "reason": "malefics in Lagna: none, Gulika house 10; with Gulika: kendra lords Budha, trikona lords none; Lagna lord Guru with Shani",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The Lagna is occupied by a malefic with Gulika in a Trine: or Gulika is associated with the lords of Kendra(s) and Trikona(s); or the lord of Lagna is combined with Rahu, Shani or Ketu. [implemented as: malefic (Surya/Mangal/Shani/nodes) in Lagna and Gulika in a trine from it (house 5/9); or Gulika's sign holds any lord of a kendra or trikona; or Lagna lord shares a sign with Rahu/Shani/Ketu. Gulika: see gulika()]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Shakata",
+  "present": false,
+  "reason": "Chandra in house 7 from Guru",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The Chandra in the 12th, 6th or 8th from Brihaspati gives rise to Sakata Yoga. [implemented as: cancelled when Chandra is in a kendra from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang); bhanga: Mantreswara, Phaladeepika ch.6"
+ },
+ {
+  "yoga": "Amala",
+  "present": true,
+  "reason": "10th from Lagna: Budha; 10th from Chandra: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The 10th from the Chandra or Lagna should be occupied by a benefic planet. [implemented as: Budha/Guru/Shukra (or waxing Chandra) in 10th from Lagna or from Chandra]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Parvata",
+  "present": false,
+  "reason": "benefics in kendras: Budha; non-benefics in 6/8: Chandra; (minority variant, not applied: lords of 1 (Guru) and 12 (Shani) in mutual kendras: True)",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Benefic(s) being disposed in Kendra(s), the 6th and 8th houses should either be unoccupied or occupied by benefic planets. This combination goes under the name of Parvata Yoga. According to some, Parvata is also caused if the lords of Lagna and the 12th are in mutual Kendra(s). [implemented as: a benefic in a kendra from Lagna and no non-benefic (nodes included) in 6/8; the 'according to some' variant (lords of 1 and 12 in mutual kendras) is reported but not applied, as Raman gives it only as a minority view]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Kahala",
+  "present": false,
+  "reason": "4th lord Budha house 11 from 9th lord Mangal; Guru not strong (no own/exalt/kendra/trikona)",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Lords of the fourth and ninth houses should be in Kendras from each other and the lord of Lagna should be strongly disposed. [implemented as: 'strongly disposed' = strong() (module docstring)]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Veshi",
+  "present": false,
+  "reason": "house 2 from Surya: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If planets other than the Chandra occupy the 2nd from the Surya, Vesi Yoga is formed. [implemented as: Mangal..Shani (no nodes) in 2nd from Surya]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Vasi",
+  "present": true,
+  "reason": "house 12 from Surya: Shukra",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Planets other than the Chandra occupying the 12th from the Surya give rise to Vasi Yoga. [implemented as: 12th from Surya]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Obhayachari",
+  "present": false,
+  "reason": "house 2 from Surya: none; house 12 from Surya: Shukra",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If planets other than the Chandra are present on either side of the Surya, Obhayachari is caused. [implemented as: both 2nd and 12th from Surya]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Hansa",
+  "present": false,
+  "reason": "Guru in mesha (own/exalted: False), house 2 from Lagna",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Brihaspati should occupy a Kendra which should be his own house or exaltation sign. [implemented as: kendra from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Malavya",
+  "present": false,
+  "reason": "Shukra in vrishchika (own/exalted: False), house 9 from Lagna",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Shukra should occupy a quadrant which should be his own or exaltation sign. [implemented as: kendra from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Shasha",
+  "present": false,
+  "reason": "Shani in mesha (own/exalted: False), house 2 from Lagna",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Sasa Yoga is given rise to if Shani occupies a Kendra which should be his own or exaltation sign. [implemented as: kendra from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Ruchaka",
+  "present": false,
+  "reason": "Mangal in kumbha (own/exalted: False), house 12 from Lagna",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Mangala should be exalted in a Kendra or occupy a Kendra which should be his own sign. [implemented as: kendra from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Bhadra",
+  "present": false,
+  "reason": "Budha in dhanu (own/exalted: False), house 10 from Lagna",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "Bhadra Yoga is caused by the disposition of Budha in a Kendra which should be identical with his own or exaltation sign. [implemented as: kendra from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Budhaditya",
+  "present": true,
+  "reason": "Budha in dhanu, Surya in dhanu",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If Budha combines with the Surya, the combination goes under the name of Budha-Aditya Yoga. [implemented as: same sign]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Mahabhagya",
+  "present": false,
+  "reason": "gender M, day birth; Surya odd, Chandra odd, Lagna even",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "In the case of a man, when the birth is during daytime the Surya, the Chandra and the Lagna should be in odd signs. In the case of women, when the birth is during night, the Surya, the Chandra and Lagna must be in even signs. [implemented as: day = between astro.sun_events sunrise and sunset; uses the gender argument]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Pushkala",
+  "present": false,
+  "reason": "Chandra with Lagna lord Guru: False; dispositor Shukra in house 9, kendra or intimate friend's sign: False, aspects Lagna: False; powerful grahas in Lagna: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The lord of the sign occupied by the Chandra (who should be associated with lord of Lagna) should be in Kendra or in the house of an intimate friend aspecting Lagna and at the same time, Lagna should be occupied by a powerful planet. [implemented as: Chandra conjunct Lagna lord; Chandra's dispositor in a kendra or in an adhimitra's sign (natural + temporal friend), and in or aspecting Lagna; a strong() graha in Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Lakshmi",
+  "present": false,
+  "reason": "Guru not strong (no own/exalt/kendra/trikona); 9th lord Mangal in house 12, own/exalted: False",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If the lord of Lagna is powerful and the lord of 9th occupies own or exaltation sign identical with a Kendra or Trikona, Lakshmi Yoga is caused. [implemented as: Lagna lord strong(); 9th lord in own/exaltation sign that is house 1/4/5/7/9/10 from Lagna]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Gauri",
+  "present": false,
+  "reason": "10th lord Guru in navamsha of Mangal; Mangal in house 12, exalted False, with Lagna lord Guru: False",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The lord of the Navamsha occupied by the lord of the 10th should join the 10th in exaltation and combined with the lord of Lagna. [implemented as: D9 dispositor of the 10th lord: in house 10, exalted, same sign as Lagna lord]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Bharati",
+  "present": false,
+  "reason": "navamsha lords of 2/5/11 lords: 2:Mangal, 5:Guru, 11:Surya; exalted and with 9th lord Mangal: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The lord of the Navamsha occupied by the lords of the 2nd, 5th, and 11th should be exalted and combined with the 9th lord. [implemented as: for any of the 2nd/5th/11th lords, its D9 dispositor is exalted and shares a sign with the 9th lord]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Chapa",
+  "present": false,
+  "reason": "Lagna lord Guru exalted: False; 4th lord Budha in 10, 10th lord Guru in 2",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If the ascendant lord is exalted and the 4th and 10th lords have interchanged houses, Chapa Yoga is caused. [implemented as: 4th lord in 10th and 10th lord in 4th]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Shrinatha",
+  "present": false,
+  "reason": "7th lord Budha exalted False in house 10; 10th lord Guru with 9th lord Mangal: False",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If the exalted lord of the 7th occupies the 10th and the lord of the 10th is with the 9th lord, Shrinatha Yoga is caused. [implemented as: 'with' = same sign]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Shankha",
+  "present": false,
+  "reason": "5th lord Chandra house 11 from 6th lord Surya; Guru not strong (no own/exalt/kendra/trikona)",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The lords of 5th and 6th should be in mutual Kendra(s) and the lord of Lagna must be powerful. [implemented as: 'powerful' = strong()]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Bheri",
+  "present": false,
+  "reason": "Shukra/Lagna lord Guru/Guru in houses [9, 2, 2]; mutual kendras: False; Mangal not strong (no own/exalt/kendra/trikona)",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "If Shukra, lord of Lagna and Brihaspati are in mutual Kendra(s) and the lord of the 9th is powerfully disposed, Bheri Yoga is formed. [implemented as: every pair of the three in houses 1/4/7/10 from each other; 9th lord strong()]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ },
+ {
+  "yoga": "Parijata",
+  "present": false,
+  "reason": "Lagna lord Guru -> dispositor Mangal; dispositor's dispositor Shani house 2, dispositor's navamsha lord Mangal house 12; qualifying: none",
+  "cancelled": false,
+  "cancel_reason": null,
+  "rule": "The lord of the sign in which the lord of the house occupied by the Lagna lord, or the lord of Navamsha occupied by the lord of the Rashi in which the Lagna lord is posited, shall join a Kendra, a Trikona or his own or exaltation places. [implemented as: D = Lagna lord's dispositor; D's dispositor or D's navamsha lord in house 1/4/5/7/9/10, own sign or exaltation]",
+  "source": "B.V. Raman, \"Three Hundred Important Combinations\" (text as on drikpanchang)"
+ }
+]

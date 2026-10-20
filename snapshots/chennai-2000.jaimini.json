@@ -1,0 +1,97 @@
+{
+ "scheme": "7 karakas",
+ "karakas": [
+  {
+   "karaka": "Atmakaraka",
+   "graha": "Chandra",
+   "degree": "16°42′05″"
+  },
+  {
+   "karaka": "Amatyakaraka",
+   "graha": "Shani",
+   "degree": "16°32′12″"
+  },
+  {
+   "karaka": "Bhratrikaraka",
+   "graha": "Surya",
+   "degree": "16°16′18″"
+  },
+  {
+   "karaka": "Matrikaraka",
+   "graha": "Budha",
+   "degree": "07°40′09″"
+  },
+  {
+   "karaka": "Putrakaraka",
+   "graha": "Shukra",
+   "degree": "07°25′31″"
+  },
+  {
+   "karaka": "Gnatikaraka",
+   "graha": "Mangal",
+   "degree": "03°55′19″"
+  },
+  {
+   "karaka": "Darakaraka",
+   "graha": "Guru",
+   "degree": "01°22′49″"
+  }
+ ],
+ "karakamsha": "meena",
+ "devatas": [
+  {
+   "indication": "Ishta devata (moksha)",
+   "method": "12th from Karakamsha in D9 (Jaimini/BPHS)",
+   "d9_sign": "kumbha",
+   "occupants": [],
+   "used": "lord (house empty)",
+   "deities": {
+    "Shani": "kshudra (minor) devatas: Shani in a malefic sign (else Vishnu); schools differ"
+   }
+  },
+  {
+   "indication": "Dharma devata",
+   "method": "9th from Atmakaraka in D9 (Sanjay Rath school)",
+   "d9_sign": "vrishchika",
+   "occupants": [
+    "Mangal"
+   ],
+   "used": "occupants",
+   "deities": {
+    "Mangal": "Skanda (Subrahmanya)"
+   }
+  },
+  {
+   "indication": "Palana devata (sustenance)",
+   "method": "6th from Amatyakaraka in D9 (Sanjay Rath school)",
+   "d9_sign": "makara",
+   "occupants": [],
+   "used": "lord (house empty)",
+   "deities": {
+    "Shani": "kshudra (minor) devatas: Shani in a malefic sign (else Vishnu); schools differ"
+   }
+  }
+ ],
+ "janma_nakshatra": {
+  "nakshatra": "Swati",
+  "deity": "Vayu"
+ },
+ "d1_5th_9th": [
+  {
+   "house": 5,
+   "rashi": "karka",
+   "lord": "Chandra",
+   "occupants": [
+    "Rahu"
+   ]
+  },
+  {
+   "house": 9,
+   "rashi": "vrishchika",
+   "lord": "Mangal",
+   "occupants": [
+    "Shukra"
+   ]
+  }
+ ]
+}
